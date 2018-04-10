@@ -1,0 +1,1 @@
+docker run --name drupalLocal --link mySqlLocal:mysql -d drupal
